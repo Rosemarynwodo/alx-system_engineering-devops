@@ -1,1 +1,1 @@
-I would print an empty file hello
+I will print a script that adds execute permission to the own of the file hello
