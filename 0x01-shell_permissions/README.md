@@ -1,1 +1,1 @@
-I would print a script that changes the owner of the file hello to the user betty
+I would print an empty file hello
