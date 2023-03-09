@@ -1,1 +1,1 @@
-I would print permission accessible to everybody
+print multiple permissions
