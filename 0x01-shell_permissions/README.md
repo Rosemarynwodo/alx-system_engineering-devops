@@ -1,1 +1,1 @@
-I would print a script that permits only the user to read,write and execute
+I would prrint a script that changes the mode of user to olleh hello
