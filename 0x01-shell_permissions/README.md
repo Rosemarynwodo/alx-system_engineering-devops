@@ -1,1 +1,1 @@
-printing multiple permissions
+ printing execution permission to everybody
