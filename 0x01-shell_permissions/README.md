@@ -1,1 +1,1 @@
-I would prrint a script that changes the mode of user to olleh hello
+I would print my_dir that permit rwx--x--r
