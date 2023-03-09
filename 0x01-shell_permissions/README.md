@@ -1,1 +1,1 @@
-print multiple permissions
+permit only the user
