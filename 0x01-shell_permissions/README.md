@@ -1,1 +1,1 @@
-I would print all the groups that the current user is part
+I would print a script that changes the owner of the file hello to the user betty
