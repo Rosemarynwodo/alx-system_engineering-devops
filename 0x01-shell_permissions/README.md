@@ -1,1 +1,1 @@
-I would print chmod 753 hello
+I would print permission accessible to everybody
