@@ -1,1 +1,1 @@
-I would print change owner and group
+I would print chmod 753 hello
