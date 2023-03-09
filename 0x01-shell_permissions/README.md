@@ -1,1 +1,1 @@
-I would print my_dir that permit rwx--x--r
+I would print a script that changes the group owner to school for the file hello
