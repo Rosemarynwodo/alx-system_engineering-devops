@@ -1,1 +1,1 @@
-I would print a script that changes the group owner to school for the file hello
+I would print change owner and group
