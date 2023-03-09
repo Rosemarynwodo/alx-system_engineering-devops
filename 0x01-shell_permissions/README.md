@@ -1,1 +1,1 @@
-print directories permissions
+print multiple permissions
