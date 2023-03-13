@@ -1,1 +1,1 @@
-empty casks makes the most noise
+Empty casks make the most noise
