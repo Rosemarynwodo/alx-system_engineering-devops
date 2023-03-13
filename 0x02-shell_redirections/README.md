@@ -1,1 +1,1 @@
-no more javascript
+directories
