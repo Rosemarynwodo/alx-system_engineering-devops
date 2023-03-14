@@ -1,1 +1,1 @@
-power divide
+love is anterior to life
