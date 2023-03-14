@@ -1,1 +1,1 @@
-create global variable
+power divide
