@@ -1,1 +1,1 @@
-love is anterior to life
+binary number
