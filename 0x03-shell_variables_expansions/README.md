@@ -1,1 +1,1 @@
-binary number
+combinations
