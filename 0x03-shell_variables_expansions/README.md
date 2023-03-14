@@ -1,1 +1,1 @@
-create global variable
+trueknowledge
