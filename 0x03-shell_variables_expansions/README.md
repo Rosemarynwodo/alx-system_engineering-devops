@@ -1,1 +1,1 @@
-checks
+create global variable
